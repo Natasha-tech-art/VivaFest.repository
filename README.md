@@ -2,6 +2,7 @@
 This project is about a website that deals with  the advertising of different events where people can also book by buying tickets.
 
 #PAGES INCLUDE:
+
 -Home
 
 -About
@@ -21,6 +22,7 @@ This project is about a website that deals with  the advertising of different ev
 
 ~WHAT EACH PAGE CONTAINS:
 *HOME:
+
  A welcoming section
  
  Mission and Vision
@@ -33,6 +35,7 @@ This project is about a website that deals with  the advertising of different ev
  
  
  *ABOUT:
+ 
  What we do
  
  Who we are
@@ -44,6 +47,7 @@ This project is about a website that deals with  the advertising of different ev
  
  *CONSULTANTS
  Each card contains their:
+ 
  name
  
  image
@@ -54,21 +58,27 @@ This project is about a website that deals with  the advertising of different ev
  
  
  *UPCOMING EVENTS
+ 
  Different events and their images
  
  *TICKETS AND PRICES
+ 
  Contains different types of tickets
  
  *THEMES
+ 
  Contains different themes and dress codes for each event
  
  *CONTACT US
+ 
  Here,app users are allowed to send messages and also view the contact information of the website
  
  *LOG IN
+ 
  Here,one can log in using their email address or sign up for a an account if it is not available
 
  #DIFFERENT STYLES USED
+ 
  -Glass morphism effect
  
  -Animations
@@ -77,6 +87,7 @@ This project is about a website that deals with  the advertising of different ev
  
 
  ##TECHNOLOGIES USED
+ 
  -HTML
  
  -CSS
