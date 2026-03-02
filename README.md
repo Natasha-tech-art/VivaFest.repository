@@ -3,34 +3,55 @@ This project is about a website that deals with  the advertising of different ev
 
 #PAGES INCLUDE:
 -Home
+
 -About
+
 -Consultants
+
 -Upcoming Events
+
 -Tickets & Prices
+
 -Themes
--Contact Us 
--Log in 
+
+-Contact Us
+
+-Log in
+
 
 ~WHAT EACH PAGE CONTAINS:
 *HOME:
  A welcoming section
+ 
  Mission and Vision
+ 
  About our Platform
+ 
  Events you can discover
+ 
  What people are saying
+ 
  
  *ABOUT:
  What we do
+ 
  Who we are
+ 
  Mission and Vision
+ 
  Why choose us
+ 
  
  *CONSULTANTS
  Each card contains their:
  name
+ 
  image
+ 
  availability
+ 
  experience
+ 
  
  *UPCOMING EVENTS
  Different events and their images
@@ -49,13 +70,19 @@ This project is about a website that deals with  the advertising of different ev
 
  #DIFFERENT STYLES USED
  -Glass morphism effect
+ 
  -Animations
+ 
  -Grids and Gradients
+ 
 
  ##TECHNOLOGIES USED
  -HTML
+ 
  -CSS
+ 
  -Tailwind
+ 
  
  
 
